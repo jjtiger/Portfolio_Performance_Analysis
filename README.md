@@ -1,2 +1,3 @@
 # Portfolio_Performance_Analysis
 Performance evaluation of selected stocks compared to the S&amp;P500
+Quantitative analysis of major metrics in diversified portfolios, to determine which portfolio outperformed the others. Given the historical daily returns of several portfolios: some from the firm's algorithmic portfolios, some that represent the portfolios of famous "whale" investors like Warren Buffett, and some from the big hedge and mutual funds. This analysis is used to create a custom portfolio of stocks and compare its performance to that of the other portfolios, as well as the larger market (S&P 500 Index).
